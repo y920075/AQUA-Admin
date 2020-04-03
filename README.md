@@ -1,5 +1,6 @@
 # AQUA-Admin
 資策會-前端工程師養成班小專題  
+使用PHP+MySQL建置管理後台
 本人負責部分為AQUA_class及AQUA_event  
 課程及揪團功能的新增、修改、刪除、查詢  
 並且含有以AJAX功能製作的搜尋系統  
